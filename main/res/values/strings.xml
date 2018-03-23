@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Criminal</string>
+    <string name="crime_title_hint">Enter a title for the crime.</string>
+    <string name="crime_title_label">Title</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_solved_label">Solved</string>
+    <string name="date_of_crime" translatable="false">Date of crime:</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="call_police" translatable="false">Call Police!</string>
+    <string name="first_crime" translatable="false">First crime!</string>
+    <string name="last_crime" translatable="false">Last crime!</string>
+    <string name="ok" translatable="false">Ok</string>
+    <string name="new_crime">New Crime</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="delete" translatable="false">Delete</string>
+    <string name="create_a_new_crime" translatable="false">Create a new Crime</string>
+    <string name="there_s_no_crime_till_now" translatable="false">There\'s no crime till now</string>
+    <string name="choose_suspect" translatable="false">CHOOSE SUSPECT</string>
+    <string name="send_crime_report" translatable="false">SEND CRIME REPORT</string>
+    <string name="crime_suspect_text">Choose Suspect</string>
+    <string name="crime_report_text">Send Crime Report</string>
+    <string name="crime_report">%1$s! The crime was discovered on %2$s. %3$s, and %4$s</string>
+    <string name="crime_report_solved">The case is solved</string>
+    <string name="crime_report_unsolved">The case is not solved</string>
+    <string name="crime_report_no_suspect">there is no suspect</string>
+    <string name="crime_report_suspect">The suspect is %s</string>
+    <string name="crime_report_subject">Criminal Crimes Report</string>
+    <string name="send_report">Send crimes report via</string>
+    <string name="call_suspect" translatable="false">Call %s</string>
+    <string name="call" translatable="false">call</string>
+    <string name="evidence_photo" translatable="false">Evidence photo</string>
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$d crime</item>
+        <item quantity="other">%1$d crimes</item>
+    </plurals>
+    <string name="date_picker_title">pick the date</string>
+    <string name="subtitle_format">%1$s crimes</string>
+    <string name="click_to_take_the_image">click to take the image</string>
+    <string name="requires_police">Requires police</string>
+</resources>
